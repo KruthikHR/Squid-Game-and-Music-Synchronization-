@@ -1,5 +1,5 @@
 # Squid-Game-and-Music-Synchronization-
-It is python based project. This project is game based where 2 members are allowed to play this game. It detect the humans movement and based on that it display the results. When game start after 10sec instructions will be played on successful played then the player need to press the start button to begin the game 
+It is python based project. This project is game based where 2 members are allowed to play this game. It detect the humans movement and based on that it display the results.
 1. Start VisualStudio Code.
 2. Run main.py file.
 3. Game Instructions will be played.
